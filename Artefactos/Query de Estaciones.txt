@@ -1,0 +1,16 @@
+------------------Reiniciar los datos en la tabla---------------------
+DELETE FROM tblEstacionCarga;
+DBCC CHECKIDENT ('tblEstacionCarga', RESEED, 0);
+
+
+---------------------Ingresar Estaciones-----------------------
+INSERT INTO tblEstacionCarga(strNombre, numLatitud, numLongitud) 
+VALUES 
+	('Universidad EAFIT', 6.20071428920212, -75.57818157583036),
+	('Centro Comercial Viva Envigado', 6.177258677984371, -75.59205623166483),
+	('EDS GNV EPM Exposiciones', 6.237641525175992, -75.57562209889146),
+	('Centro Comercial Los Molinos', 6.23217144479876, -75.60479671690884),
+	('Planta Transferencia SOCYA', 6.14189298641102, -75.63188653203966),
+	('Ciudad del Rio', 6.223839378764951, -75.57220223328183)
+	
+	

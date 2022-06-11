@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Broker\bin\Debug\netcoreapp3.1\pryRentaCarros.Model.dll
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Broker\obj\Debug\netcoreapp3.1\pryRentaCarros.Broker.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Broker\obj\Debug\netcoreapp3.1\pryRentaCarros.Broker.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Broker\bin\Debug\netcoreapp3.1\pryRentaCarros.Broker.deps.json
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Broker\bin\Debug\netcoreapp3.1\pryRentaCarros.Broker.dll
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Broker\bin\Debug\netcoreapp3.1\pryRentaCarros.Broker.pdb
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Broker\bin\Debug\netcoreapp3.1\pryRentaCarros.Model.pdb
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Broker\obj\Debug\netcoreapp3.1\pryRentaCarros.Broker.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Broker\obj\Debug\netcoreapp3.1\pryRentaCarros.Broker.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Broker\obj\Debug\netcoreapp3.1\pryRentaCarros.Broker.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Broker\obj\Debug\netcoreapp3.1\pryRentaCarros.Broker.dll
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Broker\obj\Debug\netcoreapp3.1\pryRentaCarros.Broker.pdb

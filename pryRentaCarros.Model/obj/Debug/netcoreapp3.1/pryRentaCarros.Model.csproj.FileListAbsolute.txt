@@ -1,0 +1,9 @@
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Model\bin\Debug\netcoreapp3.1\pryRentaCarros.Model.deps.json
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Model\bin\Debug\netcoreapp3.1\pryRentaCarros.Model.dll
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Model\bin\Debug\netcoreapp3.1\pryRentaCarros.Model.pdb
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Model\obj\Debug\netcoreapp3.1\pryRentaCarros.Model.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Model\obj\Debug\netcoreapp3.1\pryRentaCarros.Model.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Model\obj\Debug\netcoreapp3.1\pryRentaCarros.Model.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Model\obj\Debug\netcoreapp3.1\pryRentaCarros.Model.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Model\obj\Debug\netcoreapp3.1\pryRentaCarros.Model.dll
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.Model\obj\Debug\netcoreapp3.1\pryRentaCarros.Model.pdb

@@ -1,0 +1,6 @@
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.DataBase\bin\Debug\pryRentaCarros.DataBase.dacpac
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.DataBase\bin\Debug\pryRentaCarros.DataBase.dll
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.DataBase\bin\Debug\pryRentaCarros.DataBase.pdb
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.DataBase\obj\Debug\pryRentaCarros.DataBase.sqlprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.DataBase\obj\Debug\pryRentaCarros.DataBase.dll
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.DataBase\obj\Debug\pryRentaCarros.DataBase.pdb

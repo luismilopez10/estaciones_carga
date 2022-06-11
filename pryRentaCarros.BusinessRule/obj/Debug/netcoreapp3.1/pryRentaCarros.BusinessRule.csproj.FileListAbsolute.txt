@@ -1,0 +1,14 @@
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\bin\Debug\netcoreapp3.1\pryRentaCarros.BusinessRule.deps.json
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\bin\Debug\netcoreapp3.1\pryRentaCarros.BusinessRule.dll
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\bin\Debug\netcoreapp3.1\pryRentaCarros.BusinessRule.pdb
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\bin\Debug\netcoreapp3.1\pryRentaCarros.Broker.dll
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\bin\Debug\netcoreapp3.1\pryRentaCarros.Model.dll
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\bin\Debug\netcoreapp3.1\pryRentaCarros.Broker.pdb
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\bin\Debug\netcoreapp3.1\pryRentaCarros.Model.pdb
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\obj\Debug\netcoreapp3.1\pryRentaCarros.BusinessRule.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\obj\Debug\netcoreapp3.1\pryRentaCarros.BusinessRule.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\obj\Debug\netcoreapp3.1\pryRentaCarros.BusinessRule.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\obj\Debug\netcoreapp3.1\pryRentaCarros.BusinessRule.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\obj\Debug\netcoreapp3.1\pryRentaCarros.BusinessRule.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\obj\Debug\netcoreapp3.1\pryRentaCarros.BusinessRule.dll
+C:\Users\USUARIO\source\repos\slnComputacionNube\pryRentaCarros.BusinessRule\obj\Debug\netcoreapp3.1\pryRentaCarros.BusinessRule.pdb
